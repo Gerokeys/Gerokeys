@@ -45,11 +45,9 @@
 <hr/>
 
 <div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Gerokeys/Gerokeys/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
+  <a href="https://Giddy.com/">
+  <img src="https://github.com/bimashazaman/Github-snake-SVG/blob/master/snake.svg"
+       alt="snake" /></a>
 </div>
 
 <hr/>
