@@ -5,7 +5,21 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;I'm+Gerald+Shikwe!;">
   </a>
 </h1>
-# Hi there, I'm Gerald Shikwe Shikuku! 👋
+
+<h3 align="center">A passionate Fullstack developer from Nairobi,Kenya</h3>
+
+<br/>
+
+<div align="center">
+  🔭I'm currently working on a ** Apartment listing app **
+
+  🌱I', currently learning ** PHP, Laravel, React, Gsap **
+
+  💬 Ask me about ** Gsap, animations, clean code**
+
+  ⚡Fun fact ** Aside from coding, I can solve a Rubik's cube in under 1 minute. **
+</div
+
 
 I'm a fourth-year Computer Science student at Catholic University and a passionate developer with a knack for building web-based applications. Currently, I'm working on a web-based apartment listing system for my final year project.
 
