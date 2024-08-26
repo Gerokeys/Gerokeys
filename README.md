@@ -32,17 +32,6 @@
   </a>
 </div>
 
-
-![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerokeys&show_icons=true&theme=radical)
-
-## 🔭 Current Projects
-
-- [Apartment Listing System](https://github.com/Gerokeys/apartment-listing-system): A platform to help users list and find apartments easily.
-- [Blazefabricators Website](#): A project involving a welding company named Blazefabricators.
-
-## 📫 How to Reach Me
-
-- **Email**: [your-email@example.com](mailto:your-email@example.com)
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
 - **Twitter**: [Your Twitter](https://twitter.com/your-twitter)
 
