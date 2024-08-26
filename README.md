@@ -31,12 +31,3 @@
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
   </a>
 </div>
-
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/your-linkedin)
-- **Twitter**: [Your Twitter](https://twitter.com/your-twitter)
-
-## 🌱 Fun Facts
-
-- I was an IT Support intern at Aga Khan University Hospital.
-- I'm currently preparing for a software engineering internship interview at Savannah Informatics.
-
