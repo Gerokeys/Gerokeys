@@ -2,11 +2,9 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?
-    font=Righteous&size=35&center=true=true&vCenter=true&width=500&height=700&duration=4000&lines=Hi+there!+👋:+I'm+Gerald+Shikwe!;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+there!+👋;I'm+Gerald+Shikwe!;">
   </a>
 </h1>
-
 # Hi there, I'm Gerald Shikwe Shikuku! 👋
 
 I'm a fourth-year Computer Science student at Catholic University and a passionate developer with a knack for building web-based applications. Currently, I'm working on a web-based apartment listing system for my final year project.
