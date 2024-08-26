@@ -20,7 +20,7 @@
   ⚡Fun fact ** Aside from coding, I can solve a Rubik's cube in under 1 minute. **
 </div
 
-<div align="center"> 
+<div align="right"> 
   <a href="mailto:shikukugerald111@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
