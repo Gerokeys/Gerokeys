@@ -1,3 +1,5 @@
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Gerokeys.Gerokeys">
+
 # Hi there, I'm Gerald Shikwe Shikuku! 👋
 
 I'm a fourth-year Computer Science student at Catholic University and a passionate developer with a knack for building web-based applications. Currently, I'm working on a web-based apartment listing system for my final year project.
