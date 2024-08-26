@@ -20,15 +20,17 @@
   ⚡Fun fact ** Aside from coding, I can solve a Rubik's cube in under 1 minute. **
 </div
 
-
-I'm a fourth-year Computer Science student at Catholic University and a passionate developer with a knack for building web-based applications. Currently, I'm working on a web-based apartment listing system for my final year project.
-
-## 🚀 Technologies & Tools
-
-- **Languages**: PHP, Python, JavaScript, HTML, CSS
-- **Frameworks**: React, Django, Laravel
-- **Tools**: Git, GitHub, VS Code, Docker
-
+<div align="center"> 
+  <a href="mailto:shikukugerald111@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/gerald-shikwe-7ba47623b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+  </a>
+  <a href="https://github.com/Gerokeys" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> <!-- sqlite, safari, google-chrome are other good icon options -->
+  </a>
+</div>
 ## 📈 GitHub Stats
 
 ![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerokeys&show_icons=true&theme=radical)
