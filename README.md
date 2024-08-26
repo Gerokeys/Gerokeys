@@ -10,7 +10,7 @@
 
 <br/>
 
-<div align="right">
+<div align="center">
   🔭I'm currently working on a ** Apartment listing app **
 
   🌱I', currently learning ** PHP, Laravel, React, Gsap **
